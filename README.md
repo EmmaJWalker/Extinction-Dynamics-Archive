@@ -1,4 +1,4 @@
-JOURNAL PUBLICATION CITATION: Walker, E. J. & B. Gilbert. 2022. Extinction dynamics: the interplay of species traits and the spatial scales of metapopulation declines. Ecology.
+JOURNAL PUBLICATION CITATION: Walker, E. J. & B. Gilbert. 2022. Extinction dynamics: the interplay of species traits and the spatial scales of metapopulation declines. Ecology. https://doi.org/10.1002/ecy.3840
  
 Data S1
 
